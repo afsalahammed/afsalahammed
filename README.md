@@ -54,9 +54,8 @@
 
 📜 Resume 
 
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 🚀 Actively learning & building Cloud/DevOps projects. Follow for updates!
