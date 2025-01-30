@@ -3,7 +3,7 @@
 
 
 
-
+<br/>
 ### 🚀 Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
 🔹 Passionate about Cloud Infrastructure, Automation, and DevOps Practices
@@ -14,7 +14,7 @@
 
 
 
-
+<br/>
 ### 🛠 Tech Stack
 
 🔹 Cloud: AWS (EC2, S3, IAM, CloudFormation) | Azure (Learning)
@@ -33,7 +33,7 @@
 
 
 
-
+<br/>
 ### 🔥 Featured Projects
 
 📌 AWS Infrastructure as Code – Deploy AWS EC2, S3, and IAM using Terraform & Ansible (Coming Soon)
@@ -46,12 +46,15 @@
 
 
 
-
+<br/>
 ### 📫 Connect With Me
 
 🌐 GitHub
+
 💼 LinkedIn 
+
 📧 Email: afsalahammed@proton.me
+
 📜 Resume 
 
 
