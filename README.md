@@ -1,61 +1,50 @@
-## Hi there 👋
-# I'm Afsal Ahammed!
+# **🚀 Afsal Ahammed**  
 
-<br/>
+💻 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD**  
 
-### 🚀 Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
+🔹 Passionate about **Cloud Infrastructure, Automation, and DevOps Best Practices**  
+🔹 Skilled in **AWS, Azure (learning), Terraform, Docker, Ansible, and CI/CD Pipelines**  
+🔹 Open to **Cloud & DevOps opportunities**  
 
-🔹 Passionate about Cloud Infrastructure, Automation, and DevOps Practices
+---
 
-🔹 Skilled in AWS, Azure (learning), Terraform, Docker, Ansible, and CI/CD Pipelines
+## 📌 **Tech Stack**  
 
-🔹 Open to Cloud & DevOps opportunities
+| **Category**       | **Technologies**                                     |
+|-------------------|--------------------------------------------------|
+| ☁ **Cloud**       | AWS (EC2, S3, IAM, CloudFormation), Azure (Learning) |
+| ⚙ **IaC & Automation** | Terraform, Ansible  |
+| 📦 **Containers**  | Docker, Kubernetes (Basic)  |
+| 🔄 **CI/CD**       | GitHub Actions, Jenkins  |
+| 📊 **Monitoring**  | AWS CloudWatch, Prometheus (Basic)  |
+| 🖥 **OS & Scripting** | Linux, Python, Bash  |
 
-<br/>
+---
 
-### 🛠 Tech Stack
+## 🚀 **Projects**  
 
-🔹 Cloud: AWS (EC2, S3, IAM, CloudFormation) | Azure (Learning)
+### 🔹 **AWS Infrastructure as Code** *(Coming Soon)*  
+> 🚀 Deploy AWS EC2, S3, and IAM using Terraform & Ansible  
 
-🔹 IaC & Automation: Terraform | Ansible
+### 🔹 **CI/CD Pipeline** *(Coming Soon)*  
+> 🔄 Automate deployment with GitHub Actions & Docker  
 
-🔹 Containers & Orchestration: Docker | Kubernetes (Basic)
+### 🔹 **Azure Infrastructure Deployment** *(Coming Soon)*  
+> ☁ Set up VMs & networking using Terraform  
 
-🔹 CI/CD: GitHub Actions | Jenkins
+### 🔹 **Kubernetes Deployment** *(Coming Soon)*  
+> 📦 Deploy a sample app on AWS EKS  
 
-🔹 Monitoring & Logging: AWS CloudWatch | Prometheus (Basic)
+---
 
-🔹 Scripting: Python | Bash
+## 📫 **Connect With Me**  
 
-🔹 Version Control: Git | GitHub
+🌐 [**GitHub**](https://github.com/afsalahammed)  
+💼 [**LinkedIn**](#) **  
+📧 **Email:** afsalahammed@proton.me  
+📜 [**Resume**](#) **  
 
-<br/>
+---
 
-### 🔥 Featured Projects
+🚀 *Actively learning & building Cloud/DevOps projects. Follow for updates!*  
 
-📌 AWS Infrastructure as Code – Deploy AWS EC2, S3, and IAM using Terraform & Ansible (Coming Soon)
-
-📌 CI/CD Pipeline – Automate deployment with GitHub Actions & Docker (Coming Soon)
-
-📌 Azure Infrastructure Deployment – Set up VMs & networking using Terraform (Coming Soon)
-
-📌 Kubernetes Deployment – Deploy a sample app on AWS EKS (Coming Soon)
-
-
-<br/>
-
-### 📫 Connect With Me
-
-🌐 GitHub
-
-💼 LinkedIn 
-
-📧 Email: afsalahammed@proton.me
-
-📜 Resume 
-
-<br/>
-<br/>
-<br/>
-
-🚀 Actively learning & building Cloud/DevOps projects. Follow for updates!
