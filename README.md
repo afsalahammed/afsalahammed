@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Afsal Ahammed! 👋
+# I'm Afsal Ahammed!
 
 <br/>
 
