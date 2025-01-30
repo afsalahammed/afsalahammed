@@ -2,7 +2,10 @@
 Hi, I'm Afsal Ahammed! 👋
 
 
+
+
 🚀 Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD
+
 
 
 🔹 Passionate about Cloud Infrastructure, Automation, and DevOps Practices
@@ -12,7 +15,9 @@ Hi, I'm Afsal Ahammed! 👋
 🔹 Open to Cloud & DevOps opportunities
 
 
+
 🛠 Tech Stack
+
 
 
 🔹 Cloud: AWS (EC2, S3, IAM, CloudFormation) | Azure (Learning)
@@ -30,7 +35,9 @@ Hi, I'm Afsal Ahammed! 👋
 🔹 Version Control: Git | GitHub
 
 
+
 🔥 Featured Projects
+
 
 
 📌 AWS Infrastructure as Code – Deploy AWS EC2, S3, and IAM using Terraform & Ansible (Coming Soon)
@@ -42,7 +49,9 @@ Hi, I'm Afsal Ahammed! 👋
 📌 Kubernetes Deployment – Deploy a sample app on AWS EKS (Coming Soon)
 
 
+
 📫 Connect With Me
+
 
 
 🌐 GitHub
@@ -52,6 +61,8 @@ Hi, I'm Afsal Ahammed! 👋
 📧 Email: afsalahammed@proton.me
 
 📜 Resume 
+
+
 
 
 🚀 Actively learning & building Cloud/DevOps projects. Follow for updates!
